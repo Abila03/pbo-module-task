@@ -1,0 +1,38 @@
+C:\Users\My Computer\source\repos\Admin_staff\obj\Debug\net6.0-windows\Admin_staff.csproj.AssemblyReference.cache
+C:\Users\My Computer\source\repos\Admin_staff\obj\Debug\net6.0-windows\JT_APPS__Final_Setting_.staff.resources
+C:\Users\My Computer\source\repos\Admin_staff\obj\Debug\net6.0-windows\Admin_staff.csproj.GenerateResource.cache
+C:\Users\My Computer\source\repos\Admin_staff\obj\Debug\net6.0-windows\Admin_staff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Computer\source\repos\Admin_staff\obj\Debug\net6.0-windows\Admin_staff.AssemblyInfoInputs.cache
+C:\Users\My Computer\source\repos\Admin_staff\obj\Debug\net6.0-windows\Admin_staff.AssemblyInfo.cs
+C:\Users\My Computer\source\repos\Admin_staff\obj\Debug\net6.0-windows\Admin_staff.csproj.CoreCompileInputs.cache
+C:\Users\My Computer\source\repos\Admin_staff\bin\Debug\net6.0-windows\Admin_staff.exe
+C:\Users\My Computer\source\repos\Admin_staff\bin\Debug\net6.0-windows\Admin_staff.deps.json
+C:\Users\My Computer\source\repos\Admin_staff\bin\Debug\net6.0-windows\Admin_staff.runtimeconfig.json
+C:\Users\My Computer\source\repos\Admin_staff\bin\Debug\net6.0-windows\Admin_staff.dll
+C:\Users\My Computer\source\repos\Admin_staff\bin\Debug\net6.0-windows\Admin_staff.pdb
+C:\Users\My Computer\source\repos\Admin_staff\obj\Debug\net6.0-windows\Admin_staff.dll
+C:\Users\My Computer\source\repos\Admin_staff\obj\Debug\net6.0-windows\refint\Admin_staff.dll
+C:\Users\My Computer\source\repos\Admin_staff\obj\Debug\net6.0-windows\Admin_staff.pdb
+C:\Users\My Computer\source\repos\Admin_staff\obj\Debug\net6.0-windows\Admin_staff.genruntimeconfig.cache
+C:\Users\My Computer\source\repos\Admin_staff\obj\Debug\net6.0-windows\ref\Admin_staff.dll
+G:\Users\acer\Documents\6833 MUHAMAD ABILA NURRODIN\KULIAH\SMT 2\PBO\project\Admin_staff\bin\Debug\net6.0-windows\Admin_staff.exe
+G:\Users\acer\Documents\6833 MUHAMAD ABILA NURRODIN\KULIAH\SMT 2\PBO\project\Admin_staff\bin\Debug\net6.0-windows\Admin_staff.deps.json
+G:\Users\acer\Documents\6833 MUHAMAD ABILA NURRODIN\KULIAH\SMT 2\PBO\project\Admin_staff\bin\Debug\net6.0-windows\Admin_staff.runtimeconfig.json
+G:\Users\acer\Documents\6833 MUHAMAD ABILA NURRODIN\KULIAH\SMT 2\PBO\project\Admin_staff\bin\Debug\net6.0-windows\Admin_staff.dll
+G:\Users\acer\Documents\6833 MUHAMAD ABILA NURRODIN\KULIAH\SMT 2\PBO\project\Admin_staff\bin\Debug\net6.0-windows\Admin_staff.pdb
+G:\Users\acer\Documents\6833 MUHAMAD ABILA NURRODIN\KULIAH\SMT 2\PBO\project\Admin_staff\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Users\acer\Documents\6833 MUHAMAD ABILA NURRODIN\KULIAH\SMT 2\PBO\project\Admin_staff\bin\Debug\net6.0-windows\Npgsql.dll
+G:\Users\acer\Documents\6833 MUHAMAD ABILA NURRODIN\KULIAH\SMT 2\PBO\project\Admin_staff\obj\Debug\net6.0-windows\Admin_staff.csproj.AssemblyReference.cache
+G:\Users\acer\Documents\6833 MUHAMAD ABILA NURRODIN\KULIAH\SMT 2\PBO\project\Admin_staff\obj\Debug\net6.0-windows\JT_APPS__Final_Setting_.staff.resources
+G:\Users\acer\Documents\6833 MUHAMAD ABILA NURRODIN\KULIAH\SMT 2\PBO\project\Admin_staff\obj\Debug\net6.0-windows\Admin_staff.csproj.GenerateResource.cache
+G:\Users\acer\Documents\6833 MUHAMAD ABILA NURRODIN\KULIAH\SMT 2\PBO\project\Admin_staff\obj\Debug\net6.0-windows\Admin_staff.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\acer\Documents\6833 MUHAMAD ABILA NURRODIN\KULIAH\SMT 2\PBO\project\Admin_staff\obj\Debug\net6.0-windows\Admin_staff.AssemblyInfoInputs.cache
+G:\Users\acer\Documents\6833 MUHAMAD ABILA NURRODIN\KULIAH\SMT 2\PBO\project\Admin_staff\obj\Debug\net6.0-windows\Admin_staff.AssemblyInfo.cs
+G:\Users\acer\Documents\6833 MUHAMAD ABILA NURRODIN\KULIAH\SMT 2\PBO\project\Admin_staff\obj\Debug\net6.0-windows\Admin_staff.csproj.CoreCompileInputs.cache
+G:\Users\acer\Documents\6833 MUHAMAD ABILA NURRODIN\KULIAH\SMT 2\PBO\project\Admin_staff\obj\Debug\net6.0-windows\Admin_staff.csproj.CopyComplete
+G:\Users\acer\Documents\6833 MUHAMAD ABILA NURRODIN\KULIAH\SMT 2\PBO\project\Admin_staff\obj\Debug\net6.0-windows\Admin_staff.dll
+G:\Users\acer\Documents\6833 MUHAMAD ABILA NURRODIN\KULIAH\SMT 2\PBO\project\Admin_staff\obj\Debug\net6.0-windows\refint\Admin_staff.dll
+G:\Users\acer\Documents\6833 MUHAMAD ABILA NURRODIN\KULIAH\SMT 2\PBO\project\Admin_staff\obj\Debug\net6.0-windows\Admin_staff.pdb
+G:\Users\acer\Documents\6833 MUHAMAD ABILA NURRODIN\KULIAH\SMT 2\PBO\project\Admin_staff\obj\Debug\net6.0-windows\Admin_staff.genruntimeconfig.cache
+G:\Users\acer\Documents\6833 MUHAMAD ABILA NURRODIN\KULIAH\SMT 2\PBO\project\Admin_staff\obj\Debug\net6.0-windows\ref\Admin_staff.dll
+g:\Users\ACER\Documents\6833 MUHAMAD ABILA NURRODIN\KULIAH\SMT 2\PBO\project\Admin_staff\obj\Debug\net6.0-windows\Admin_staff.Properties.Resources.resources
